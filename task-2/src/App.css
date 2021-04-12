@@ -1,3 +1,19 @@
+
+.Border{
+  border : solid 2px black;
+  padding : 30px;
+  margin: 30px;
+}
+
+.color{
+  color: red;
+}
+
+.width{
+  max-width: 30%;
+  margin-left: 30%;
+}
+
 .App {
   text-align: center;
 }
